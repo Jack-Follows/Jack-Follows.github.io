@@ -1,2 +1,2 @@
 # JackFollows.github.io
-My Website!
+A Collection of my Portfolio can be found on this website!
